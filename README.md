@@ -121,7 +121,7 @@ A arquitetura está dividida em **componentes modernizados** e **componentes leg
 ## 👤 Autor
 
 **Henrique Witzel**  
-Desenvolvedor backend e líder técnico com foco em:
+Desenvolvedor backend e tech lead com foco em:
 
 - Arquitetura moderna
 - Qualidade de código
